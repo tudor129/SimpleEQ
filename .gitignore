@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **/Builds
 **/JuceLibraryCode
 
@@ -121,3 +122,37 @@ CTestTestfile.cmake
 .editorconfig
 
 # Directories to ignore (add any additional directories specific to your project)
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 5f90ede94ea8305d832cbe4962f965bb6acbe0e8
